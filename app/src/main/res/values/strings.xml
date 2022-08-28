@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HouseMenu</string>
+    <string name="dashboardInfo">Select Day for Menu</string>
+    <string name="informationalDetails">Click food names to see informational details</string>
+    <string name="breakfast">Brekky</string>
+    <string name="lunch">Lunch</string>
+    <string name="supper">Supper</string>
+    <string name="numberColumn">No</string>
+    <string name="mealColumn">Meal</string>
+    <string name="nutritionColumn">Nutrition</string>
+    <string name="cellOneHint">Long press here…</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="exportData">Backup Meal Plan</string>
+    <string name="importData">Restore Meal Plan</string>
+    <string name="clearMenu">Clear Meal Plan</string>
+    <string name="share_menu">Share Meal Plan</string>
+    <string name="shareApp">Share App</string>
+</resources>

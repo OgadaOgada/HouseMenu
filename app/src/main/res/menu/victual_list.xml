@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/delete"
+        android:title= "Delete"/>
+
+    <item android:id="@+id/changeTo"
+        android:title= "Change Meal To:"/>
+
+    <item android:id="@+id/ackee"
+        android:title= "\t\t\t1.	Ackee fruit"/>
+
+    <item android:id="@+id/apple"
+        android:title= "\t\t\t2.	Apple"/>
+
+    <item android:id="@+id/nduma"
+        android:title= "\t\t\t3.	Arrowroot (nduma)"/>
+
+    <item android:id="@+id/avocado"
+        android:title= "\t\t\t4.	Avocado"/>
+
+    <item android:id="@+id/banana"
+        android:title= "\t\t\t5.	Banana(ripe)"/>
+
+    <item android:id="@+id/matoke"
+        android:title= "\t\t\t6.	Bananas(cooked)"/>
+
+    <item android:id="@+id/beans"
+        android:title= "\t\t\t7.	Beans"/>
+
+    <item android:id="@+id/beef"
+        android:title= "\t\t\t8.	Beef(cattle meat)"/>
+
+    <item android:id="@+id/bhajia"
+        android:title= "\t\t\t9.	Bhajia"/>
+
+    <item android:id="@+id/biryani"
+        android:title= "\t\t\t10.	Biryani"/>
+
+    <item android:id="@+id/bread"
+        android:title= "\t\t\t11.	Bread"/>
+
+    <item android:id="@+id/brocollli"
+        android:title= "\t\t\t12.	Brocolli"/>
+
+    <item android:id="@+id/burger"
+        android:title= "\t\t\t13.	Burger"/>
+
+    <item android:id="@+id/cabbage"
+        android:title= "\t\t\t14.	Cabbage"/>
+
+    <item android:id="@+id/carrot"
+        android:title= "\t\t\t15.	Carrot"/>
+
+    <item android:id="@+id/cassava"
+        android:title= "\t\t\t16.	Cassava"/>
+
+    <item android:id="@+id/chapati"
+        android:title= "\t\t\t17.	Chapati"/>
+
+    <item android:id="@+id/cherimoya"
+        android:title= "\t\t\t18.	Cherimoya (Custard Apple)"/>
+
+    <item android:id="@+id/chicken"
+        android:title= "\t\t\t19.	Chicken"/>
+
+    <item android:id="@+id/chips"
+        android:title= "\t\t\t20.	Chips(Crisps)"/>
+
+    <item android:id="@+id/chocolate"
+        android:title= "\t\t\t21.	Chocolate"/>
+
+    <item android:id="@+id/coconutMilk"
+        android:title= "\t\t\t22.	Coconut milk"/>
+
+    <item android:id="@+id/coffee"
+        android:title= "\t\t\t23.	Coffee"/>
+
+    <item android:id="@+id/cucumber"
+        android:title= "\t\t\t24.	Cucumber"/>
+
+    <item android:id="@+id/cupuacu"
+        android:title= "\t\t\t25.	Cupuacu"/>
+
+    <item android:id="@+id/dates"
+        android:title= "\t\t\t26.	Dates"/>
+
+    <item android:id="@+id/dragonFruit"
+        android:title= "\t\t\t27.	Dragon Fruit"/>
+
+    <item android:id="@+id/aliya"
+        android:title= "\t\t\t28. Dried meat(aliya)"/>
+
+    <item android:id="@+id/durian"
+        android:title= "\t\t\t29.	Durian"/>
+
+    <item android:id="@+id/eggplant"
+        android:title= "\t\t\t30.	Eggplant"/>
+
+    <item android:id="@+id/eggs"
+        android:title= "\t\t\t31.	Eggs"/>
+
+    <item android:id="@+id/fermentedMilk"
+        android:title= "\t\t\t32.	Fermented Milk"/>
+
+    <item android:id="@+id/figs"
+        android:title= "\t\t\t33.	Figs"/>
+
+    <item android:id="@+id/fish"
+        android:title= "\t\t\t34.	Fish"/>
+
+    <item android:id="@+id/githeri"
+        android:title= "\t\t\t35.	Githeri"/>
+
+    <item android:id="@+id/gizzards"
+        android:title= "\t\t\t36.	Gizzard"/>
+
+    <item android:id="@+id/goat"
+        android:title= "\t\t\t37.	Goat"/>
+
+    <item android:id="@+id/dengu"
+        android:title= "\t\t\t38.	Green grams(dengu)"/>
+
+    <item android:id="@+id/grilledMeat"
+        android:title= "\t\t\t39.	Grilled Meat"/>
+
+    <item android:id="@+id/guava"
+        android:title= "\t\t\t40.	Guava"/>
+
+    <item android:id="@+id/indigenousVegetable"
+        android:title= "\t\t\t41.	Indigenous Vegetables"/>
+
+    <item android:id="@+id/amaranthus"
+        android:title= "\t\t\t\t\ta)\tAmaranthus (Terere)"/>
+    <item android:id="@+id/arrowrootLeaves"
+        android:title= "\t\t\t\t\tb)\tArrowroot leaves"/>
+    <item android:id="@+id/basella"
+        android:title= "\t\t\t\t\tc)\tBasella alba (Nderema)"/>
+    <item android:id="@+id/beanLeaves"
+        android:title= "\t\t\t\t\td)\tBean leaves"/>
+    <item android:id="@+id/managu"
+        android:title= "\t\t\t\t\te)\tBlack night shade (Managu/osuga)"/>
+    <item android:id="@+id/cassavaLeaves"
+        android:title= "\t\t\t\t\tf)\tCassava leaves"/>
+    <item android:id="@+id/cowpeaLeaves"
+        android:title= "\t\t\t\t\tg)\tcowpea leaves (Kunde)"/>
+    <item android:id="@+id/mitoo"
+        android:title= "\t\t\t\t\th)\tCrotalaria (Mitoo/miro)"/>
+    <item android:id="@+id/mrenda"
+        android:title= "\t\t\t\t\ti)\tJews Mallow /Jute (mrenda/murere)"/>
+    <item android:id="@+id/pumpkinLeaves"
+        android:title= "\t\t\t\t\tj)\tPumpkin leaves (Seveve/malenge)"/>
+    <item android:id="@+id/spiderPlantSaga"
+        android:title= "\t\t\t\t\tk)\tSpider plant (Saget/saga)"/>
+    <item android:id="@+id/stingingNettleLeaves"
+        android:title= "\t\t\t\t\tl)\tStinging nettle leaves"/>
+    <item android:id="@+id/sweetPotatoLeaves"
+        android:title= "\t\t\t\t\tm)\tSweet potato leaves"/>
+
+    <item android:id="@+id/waru"
+        android:title= "\t\t\t42.	Irish Potato(Waru)"/>
+
+    <item android:id="@+id/jabuticaba"
+        android:title= "\t\t\t43.	Jabuticaba"/>
+
+    <item android:id="@+id/jackFruit"
+        android:title= "\t\t\t44.	Jack fruit"/>
+
+    <item android:id="@+id/juice"
+        android:title= "\t\t\t45.	Juice"/>
+
+    <item android:id="@+id/lemon"
+        android:title= "\t\t\t46.	Lemon"/>
+
+    <item android:id="@+id/lentils"
+        android:title= "\t\t\t47.	Lentils"/>
+
+    <item android:id="@+id/lime"
+        android:title= "\t\t\t48.	Lime"/>
+
+    <item android:id="@+id/liver"
+        android:title= "\t\t\t49.	Liver"/>
+
+    <item android:id="@+id/mabuyu"
+        android:title= "\t\t\t50.	Mabuyu"/>
+
+    <item android:id="@+id/roastedMaize"
+        android:title= "\t\t\t51.	Maize(roasted)"/>
+
+    <item android:id="@+id/boiledMaize"
+        android:title= "\t\t\t52.	Maize(boiled)"/>
+
+    <item android:id="@+id/mandazi"
+        android:title= "\t\t\t53.	Mandazi"/>
+
+    <item android:id="@+id/mango"
+        android:title= "\t\t\t54.	Mango"/>
+
+    <item android:id="@+id/mashedPotato"
+        android:title= "\t\t\t55.	Mashed potato"/>
+
+    <item android:id="@+id/miracleFruit"
+        android:title= "\t\t\t56.	Miracle Fruit"/>
+
+    <item android:id="@+id/mukimo"
+        android:title= "\t\t\t57.	Mukimo"/>
+
+    <item android:id="@+id/mushroom"
+        android:title= "\t\t\t58.	Mushroom"/>
+
+    <item android:id="@+id/muthokoi"
+        android:title= "\t\t\t59.	Muthokoi"/>
+
+    <item android:id="@+id/mutton"
+        android:title= "\t\t\t60.	Mutton(sheep meat)"/>
+
+    <item android:id="@+id/olive"
+        android:title= "\t\t\t61.	Olive"/>
+
+    <item android:id="@+id/omena"
+        android:title= "\t\t\t62.	Omena"/>
+
+    <item android:id="@+id/orange"
+        android:title= "\t\t\t63.	Oranges"/>
+
+    <item android:id="@+id/pawpaw"
+        android:title= "\t\t\t64.	Pawpaw"/>
+
+    <item android:id="@+id/peaches"
+        android:title= "\t\t\t65.	Peaches"/>
+
+    <item android:id="@+id/peanutStew"
+        android:title= "\t\t\t66.	Peanut stew"/>
+
+    <item android:id="@+id/pigeonPeas"
+        android:title= "\t\t\t67.	Pigeon Peas (Mbaazi)"/>
+
+    <item android:id="@+id/peas"
+        android:title= "\t\t\t68.	Peas(Green)"/>
+
+    <item android:id="@+id/pilau"
+        android:title= "\t\t\t69.	Pilau"/>
+
+    <item android:id="@+id/pineapple"
+        android:title= "\t\t\t70.	Pineapple"/>
+
+    <item android:id="@+id/pizza"
+        android:title= "\t\t\t71.	Pizza"/>
+
+    <item android:id="@+id/pomegranate"
+        android:title= "\t\t\t72.	Pomegranate"/>
+
+    <item android:id="@+id/pork"
+        android:title= "\t\t\t73.	Pork(Pig meat)"/>
+
+    <item android:id="@+id/porridge"
+        android:title= "\t\t\t74.	Porridge"/>
+
+    <item android:id="@+id/pumpkin"
+        android:title= "\t\t\t74.	Pumpkin"/>
+
+    <item android:id="@+id/rambutan"
+        android:title= "\t\t\t75.	Rambutan"/>
+
+    <item android:id="@+id/rice"
+        android:title= "\t\t\t76.	Rice"/>
+
+    <item android:id="@+id/salad"
+        android:title= "\t\t\t77.	Salad (Kachumbari)"/>
+
+    <item android:id="@+id/samosa"
+        android:title= "\t\t\t78.	Samosa"/>
+
+    <item android:id="@+id/sausage"
+        android:title= "\t\t\t79.	Sausage"/>
+
+    <item android:id="@+id/shellfish"
+        android:title= "\t\t\t80.	Shellfish"/>
+
+    <item android:id="@+id/smokey"
+        android:title= "\t\t\t81.	Smokey"/>
+
+    <item android:id="@+id/snacks"
+        android:title= "\t\t\t82.	Snacks"/>
+
+    <item android:id="@+id/soda"
+        android:title= "\t\t\t83.	Soda"/>
+
+    <item android:id="@+id/spinach"
+        android:title= "\t\t\t84.	Spinach"/>
+
+    <item android:id="@+id/collardGreens"
+        android:title= "\t\t\t85.	Sukuma (Collard greens)"/>
+
+    <item android:id="@+id/sweetPotato"
+        android:title= "\t\t\t86.	Sweet Potato"/>
+
+    <item android:id="@+id/tangerine"
+        android:title= "\t\t\t87.	Tangerine"/>
+
+    <item android:id="@+id/tea"
+        android:title= "\t\t\t88.	Tea"/>
+
+    <item android:id="@+id/ugali"
+        android:title= "\t\t\t89.	Ugali"/>
+
+    <item android:id="@+id/viaziKarai"
+        android:title= "\t\t\t90.	Viazi karai"/>
+
+    <item android:id="@+id/watermelon"
+        android:title= "\t\t\t91.	Watermelon"/>
+
+    <item android:id="@+id/wingedTermite"
+        android:title= "\t\t\t92.	Winged termite"/>
+
+    <item android:id="@+id/wine"
+        android:title= "\t\t\t93.	Wine"/>
+
+
+
+</menu>
