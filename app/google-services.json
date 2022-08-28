@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989387381305",
+    "project_id": "house-meal-menu",
+    "storage_bucket": "house-meal-menu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989387381305:android:8f22074dc16569653b0be8",
+        "android_client_info": {
+          "package_name": "ke.co.croconet.housemenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989387381305-4psksojkihcugcmn1ou9bnb6hqu7qt2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZR4utqqLMJyavRZMneblDjEkl1Vo25SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989387381305-4psksojkihcugcmn1ou9bnb6hqu7qt2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

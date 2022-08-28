@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/importMenu"
+        android:orderInCategory="100"
+        android:title="@string/importData"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exportMenu"
+        android:orderInCategory="100"
+        android:title="@string/exportData"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clearMenu"
+        android:orderInCategory="100"
+        android:title="@string/clearMenu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/shareMealPlan"
+        android:orderInCategory="100"
+        android:title="@string/share_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/shareMenu"
+        android:orderInCategory="100"
+        android:title="@string/shareApp"
+        app:showAsAction="never" />
+</menu>
